@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #ccc;
+  font-family: sans-serif;
+}
+
+h1 article {
+  font-size: 1.5rem;
+  font-style: italic;
+  color: #666;
+}
+
+header, footer {
+ font-size: 1.5rem;
+}
